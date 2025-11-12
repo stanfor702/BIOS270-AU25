@@ -185,9 +185,24 @@ Answer the following questions:
 
 - Introduction Sequence — 4/4 complete:  
   _Attach image(s) here_
+![screenshot 1] (~/repos/BIOS270-AU25/HW/HW1/images/BIOS270_HW1_images/Screenshot 2025-11-11 at 5.41.33 PM.png)
+![screenshot 2] (~/repos/BIOS270-AU25/HW/HW1/images/BIOS270_HW1_images/Screenshot 2025-11-11 at 8.22.02 PM.png)
+![screenshot 3] (~/repos/BIOS270-AU25/HW/HW1/images/BIOS270_HW1_images/Screenshot 2025-11-11 at 8.34.33 PM.png)
+![screenshot 4] (~/repos/BIOS270-AU25/HW/HW1/images/BIOS270_HW1_images/Screenshot 2025-11-11 at 8.38.58 PM.png)
+![screenshot 5] (~/repos/BIOS270-AU25/HW/HW1/images/BIOS270_HW1_images/Screenshot 2025-11-11 at 8.39.44 PM.png)
 
 - Push & Pull — Git Remotes! — 8/8 complete:  
   _Attach image(s) here_
+![screenshot 1] (~/repos/BIOS270-AU25/HW/HW1/images/BIOS270_HW1_images/Screenshot 2025-11-11 at 8.48.02 PM.png)
+![screenshot 2] (~/repos/BIOS270-AU25/HW/HW1/images/BIOS270_HW1_images/Screenshot 2025-11-11 at 8.52.10 PM.png)
+![screenshot 3] (~/repos/BIOS270-AU25/HW/HW1/images/BIOS270_HW1_images/Screenshot 2025-11-11 at 9.23.19 PM.png)
+![screenshot 4] (~/repos/BIOS270-AU25/HW/HW1/images/BIOS270_HW1_images/Screenshot 2025-11-11 at 9.25.32 PM.png)
+![screenshot 5] (~/repos/BIOS270-AU25/HW/HW1/images/BIOS270_HW1_images/Screenshot 2025-11-11 at 9.25.35 PM.png)
+![screenshot 6] (~/repos/BIOS270-AU25/HW/HW1/images/BIOS270_HW1_images/Screenshot 2025-11-11 at 9.35.12 PM.png)
+![screenshot 7] (~/repos/BIOS270-AU25/HW/HW1/images/BIOS270_HW1_images/Screenshot 2025-11-11 at 9.36.54 PM.png)
+![screenshot 8] (~/repos/BIOS270-AU25/HW/HW1/images/BIOS270_HW1_images/Screenshot 2025-11-11 at 9.45.16 PM.png)
+![screenshot 9] (~/repos/BIOS270-AU25/HW/HW1/images/BIOS270_HW1_images/Screenshot 2025-11-11 at 9.59.07 PM.png)
+![screenshot 10] (~/repos/BIOS270-AU25/HW/HW1/images/BIOS270_HW1_images/Screenshot 2025-11-11 at 9.59.24 PM.png)
 
 **HW Part C**
 
